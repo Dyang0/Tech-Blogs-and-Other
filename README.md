@@ -14,3 +14,5 @@
 [OWASP Top 10](https://owasp.org/www-project-top-ten/)
 
 [OWASP Code Review Guide](https://owasp.org/www-project-code-review-guide/)
+
+- [PDF](https://owasp.org/www-project-code-review-guide/assets/OWASP_Code_Review_Guide_v2.pdf)
