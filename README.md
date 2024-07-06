@@ -130,3 +130,30 @@ It is also about the data
 as money, intellectual property, trade secrets, or lives. The context of the data with which the application is intended to process is very important in establishing potential risk. If the application is developed using an inbuilt/well-known
 design framework the answers to the most of these questions would be pre-defned. But, in case it is custom then this information will surely aid the review process, mainly in capturing the data fow and internal validations. Knowing the architecture of the application goes a long way in understanding the security threats that can be applicable to the application
 
+- Most of the application designs are based on a concept of MVC. In such designs diferent components interact with each other in an ordered sequence to serve any user request. Design review should be an integral part of secure software development process. Design reviews also help to implementing the security requirements in a better way
+
+- After understanding the design, the next phase is to analyze the threats to the design. This involves observing the design from an attacker’s perspective and uncovering the backdoors and insecure areas present in it
+
+<img width="917" alt="image" src="https://github.com/Dyang0/Helpful-Resources/assets/70818105/375401d7-93a3-477f-8736-90584759f7c9">
+
+Code Review Checklist
+- Data Validation
+- Authentication
+- Session Management
+- Authorization
+- Cryptography
+- Error Handling
+- Logging
+- Security Confguration
+- Network Architecture
+
+Static Code Analysis
+- add later
+
+### Key Terms
+- Secure Software Development Cycle (S-SDLC)
+- Agile vs. Waterfall
+- White box testing
+- Capability Maturity Model (CMM)
+- MVC (Model-View-Controller)
+
