@@ -61,4 +61,35 @@ prevent functional duplication where separate teams end up coding the same small
 
 - The term ‘source to sink analysis’ means to determine all possible inputs to the application (source) and how they are being processed by it (sink). A sink could be an insecure code pattern like a dynamic SQL query, a log writer, or a response to a client device
 
-- Once a faw is identifed, the reviewer must enumerate all the possible instances present in the application. This would not be a code review initiated by a code change, this would be a code scan initiated by management based on a faw being discovered and resources being committed to fnd if that faw exists in other parts of the product. For example, an application can be vulnerable to XSS vulnerability because of use of un-validated inputs in insecure display methods like scriptlets ‘response.write’ method, etc. in several places.
+- Once a faw is identifed, the reviewer must enumerate all the possible instances present in the application. This would not be a code review initiated by a code change, this would be a code scan initiated by management based on a faw being discovered and resources being committed to fnd if that faw exists in other parts of the product. For example, an application can be vulnerable to XSS vulnerability because of use of un-validated inputs in insecure display methods like scriptlets ‘response.write’ method, etc. in several places
+
+Many organizations with responsibility for safeguarding the integrity, confdentiality and availability of their software and data need to meet regulatory compliance. This compliance is usually mandatory rather than a voluntary step taken by the organization. Compliance regulations include:
+• PCI (Payment Card Industry) standards
+• Central bank regulations
+• Auditing objectives
+• HIPPA
+
+Factors to Consider when Developing a Code Review Process
+1. Risks
+2. Purpose & Context
+3. Lines of Code
+4. Programming language
+5. Resources, Time & Deadlines
+
+Reasons for Secure Code Reviews
+1. it is proven to be cost efective and provides an additional level of security that static analyzers cannot provide. This justifies the potential complexity and cost of security
+2. companies are driven by regulations and must have secure code to avoid fines
+
+What Should a Code Review Report Include?
+Date of review.
+• Application name, code modules reviewed
+• Developers and code reviewer names
+• Task or feature name, (TFS, GIT, Subversion, trouble ticket, etc.)
+• A brief sentence(s) to classify and prioritize software vulnerability if any and what if any remedial
+tasks need to be accomplished or follow up is needed.
+• Link to documents related to task/feature, including requirements, design, testing and threat
+modeling documents.
+• Code Review checklist if used, or link to organization Code Review Checklist. (see Appendix A)
+• Testing the developer has carried out on the code. Preferably the unit or automated tests themselves can be part of the review submission.
+• If any tools such as FxCop, BinScope Binary Analyzer, etc. were used prior to code review.
+
