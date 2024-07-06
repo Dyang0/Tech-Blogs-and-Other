@@ -82,14 +82,51 @@ Reasons for Secure Code Reviews
 
 What Should a Code Review Report Include?
 Date of review.
-• Application name, code modules reviewed
-• Developers and code reviewer names
-• Task or feature name, (TFS, GIT, Subversion, trouble ticket, etc.)
-• A brief sentence(s) to classify and prioritize software vulnerability if any and what if any remedial
-tasks need to be accomplished or follow up is needed.
-• Link to documents related to task/feature, including requirements, design, testing and threat
-modeling documents.
-• Code Review checklist if used, or link to organization Code Review Checklist. (see Appendix A)
-• Testing the developer has carried out on the code. Preferably the unit or automated tests themselves can be part of the review submission.
-• If any tools such as FxCop, BinScope Binary Analyzer, etc. were used prior to code review.
+- Application name, code modules reviewed
+- Developers and code reviewer names
+- Task or feature name, (TFS, GIT, Subversion, trouble ticket, etc.)
+- A brief sentence(s) to classify and prioritize software vulnerability if any and what if any remedial tasks need to be accomplished or follow up is needed
+- Link to documents related to task/feature, including requirements, design, testing and threat modeling documents
+- Code Review checklist if used, or link to organization Code Review Checklist. (see Appendix A)
+- Testing the developer has carried out on the code. Preferably the unit or automated tests themselves can be part of the review submission
+- If any tools such as FxCop, BinScope Binary Analyzer, etc. were used prior to code review
+
+When to Code Review
+1. When code is about to be checked in (pre-commit)
+2. When code has just been checked into a code base (post-commit)
+3. When code audits are done
+
+Dichotomy of Secure Code Review
+
+- Many companies have security teams that do not have members with coding backgrounds, which can make interactions with development teams challenging. Because of this development teams are usually skeptical of security input and guidance. Security teams are usually willing to slow things down to ensure confdentiality and integrity controls are in place while developers are face with pressure from business units they support to create and update code as quickly as possible. Unfortunately the more critical the application to operational or business needs, the more pressure to deploy the code to production.
+- It is best to weave secure code reviews into the SDLC processes so that development organizations do not see security as a hindrance, but as an assistance. As mentioned previously, spreading secure coding SMEs throughout an organization (satellites in BSIMM terminology) allows the secure code review tasks to scale and reach more development teams. As the process grows, more of the developers gain awareness of secure coding issues (as they have reviews rejected on secure coding grounds) and the frequency of secure coding issues in code reviews should drop.
+  
+A Risk Based Approach to Code Review
+- Typically the intensity of the code review varies based on the perceived risk that the change presents
+- Ultimately management is responsible for the output of a company, and thus they are responsible for the risk associated with products sold by the company
+
+<img width="913" alt="image" src="https://github.com/Dyang0/Helpful-Resources/assets/70818105/fbda3a0b-8a50-402f-97d3-72491ced73a2">
+
+<img width="912" alt="image" src="https://github.com/Dyang0/Helpful-Resources/assets/70818105/faffb019-9587-43f3-8ed5-4723c8232a2d">
+
+<img width="925" alt="image" src="https://github.com/Dyang0/Helpful-Resources/assets/70818105/e291371b-ed4b-4326-8010-870e5633caf6">
+
+Code Review Preparation
+- A security review of the application should uncover common security bugs as well as the issues specifc to business logic of the application. In order to efectively review a body of code it is important that the reviewers understand the business purpose of the application and the critical business impacts. The reviewers should understand the attack surface, identify the diferent threat agents and their motivations, and how they could potentially attack the application
+
+How a Reviewer Can Effectively Review Code
+1. Application features and Business Rules
+2. Context
+3. Sensitive Data
+4. User roles and access rights
+5. Application type
+6. Code
+7. Design
+8. Company Standards and Guidelines
+
+It is also about the data
+
+- Security code review is not simply about the code structure. It is important to remember the data; the reason that we review code is to ensure that it adequately protects the information and assets it has been entrusted with, such
+as money, intellectual property, trade secrets, or lives. The context of the data with which the application is intended to process is very important in establishing potential risk. If the application is developed using an inbuilt/well-known
+design framework the answers to the most of these questions would be pre-defned. But, in case it is custom then this information will surely aid the review process, mainly in capturing the data fow and internal validations. Knowing the architecture of the application goes a long way in understanding the security threats that can be applicable to the application
 
