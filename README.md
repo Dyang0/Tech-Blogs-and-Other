@@ -148,7 +148,33 @@ Code Review Checklist
 - Network Architecture
 
 Static Code Analysis
-- add later
+- such tools frequently serve as aids for an analyst to help them zero in on security relevant portions of code so they can fnd faws more efciently, rather than a tool that fnds all faws automatically
+- bugs may exist due to insecure code, design, or configuration. Can be identified through two options
+1. Static code scanner scripts based on a pattern search (in-house and open source)
+2. Static code analyzers (commercial and open source)
+
+- *Though code scanning scripts and open source tools can be efcient at fnding insecure code patterns, they often lack the capability of tracing the data fow. This gap is flled by static code analyzers, which identify the insecure code patterns by partially (or fully) compiling the code and investigating the execution branches, allowing for source to sink analysis. Static code analyzers and scanners are comprehensive options to complement the process of code review
+
+<img width="917" alt="image" src="https://github.com/Dyang0/Helpful-Resources/assets/70818105/f0659d9f-3aa2-4384-95d6-6d4e55555c16">
+
+<img width="916" alt="image" src="https://github.com/Dyang0/Helpful-Resources/assets/70818105/c8f2fd9c-944c-4f55-8909-d83bcc331d29">
+
+<img width="916" alt="image" src="https://github.com/Dyang0/Helpful-Resources/assets/70818105/1f766514-ce88-405d-b85e-fc05a0862230">
+
+Application Threat Modeling
+
+- Threat modeling is an in-depth approach for analyzing the security of an application. It is a structured approach that enables employees to identify, quantify, and address the security risks associated with an application. Threat modeling is not an approach to reviewing code, but it complements the secure code review process by providing context and risk analysis of the application
+
+The threat modeling process can be decomposed into 3 high level steps:
+
+1. Decompose the Application
+
+Items to consider when decomposing the application include:
+- External Dependencies
+are items external to the code of the application that may pose a threat to the application
+- Entry Points
+defne the interfaces through which potential attackers can interact with the application or supply it with data.
+- Assets
 
 ### Key Terms
 - Secure Software Development Cycle (S-SDLC)
@@ -156,4 +182,5 @@ Static Code Analysis
 - White box testing
 - Capability Maturity Model (CMM)
 - MVC (Model-View-Controller)
+
 
