@@ -206,6 +206,10 @@ DFDs show how data moves logically through the system and allows the identifcati
 
 2.  Determine and rank threats
 
+Critical to the identifcation of threats is using a threat categorization methodology. A threat categorization such as STRIDE can be used, or the Application Security Frame (ASF) that defnes threat categories such as Auditing & Logging, Authentication, Authorization, Confguration Management, Data Protection in Storage and Transit, Data Validation and Exception Management
+
+The goal of the threat categorization is to help identify threats both from the attacker (STRIDE) and the defensive perspective (ASF). DFDs produced in step 1 help to identify the potential threat targets from the attacker’s perspective, such as data sources, processes, data fows, and interactions with users. These threats can be identifed further as the roots for threat trees; there is one tree for each threat goal
+
 
 
 
