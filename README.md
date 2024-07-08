@@ -171,10 +171,45 @@ The threat modeling process can be decomposed into 3 high level steps:
 
 Items to consider when decomposing the application include:
 - External Dependencies
+
 are items external to the code of the application that may pose a threat to the application
+
 - Entry Points
+
 defne the interfaces through which potential attackers can interact with the application or supply it with data.
+
 - Assets
+
+something that the attacker is interested in; these items/areas of interest are defned as assets
+
+- Determining the Attack Surface
+
+<img width="916" alt="image" src="https://github.com/Dyang0/Helpful-Resources/assets/70818105/645d91fd-8e68-42cc-977a-2eece4334a05">
+
+<img width="647" alt="image" src="https://github.com/Dyang0/Helpful-Resources/assets/70818105/ce0020e0-f3fa-4035-9f45-d5e9ed8cd177">
+
+- Trust Levels
+
+represent the access rights that the application will grant to external entities
+
+- Data fow analysis
+
+Exploring the attack surface includes dynamic and static data fow analysis. Where and when variables are set and how the variables are used throughout the workfow, how attributes of objects and parameters might afect other data within the program. It determines if the parameters, method calls, and data exchange mechanisms implement the required security
+
+- Transaction analysis
+
+<img width="918" alt="image" src="https://github.com/Dyang0/Helpful-Resources/assets/70818105/9d679c41-6175-420d-bc61-f83a49506ce3">
+
+- Data Flow Diagrams
+
+DFDs show how data moves logically through the system and allows the identifcation data entering or leaving the system along with the storage of data and the fow of control through these components
+
+2.  Determine and rank threats
+
+
+
+
+
 
 ### Key Terms
 - Secure Software Development Cycle (S-SDLC)
