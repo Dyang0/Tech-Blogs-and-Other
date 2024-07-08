@@ -210,7 +210,22 @@ Critical to the identifcation of threats is using a threat categorization method
 
 The goal of the threat categorization is to help identify threats both from the attacker (STRIDE) and the defensive perspective (ASF). DFDs produced in step 1 help to identify the potential threat targets from the attacker’s perspective, such as data sources, processes, data fows, and interactions with users. These threats can be identifed further as the roots for threat trees; there is one tree for each threat goal
 
+From the defensive perspective, ASF categorization helps to identify the threats as weaknesses of security controls for such threats. Common threat-lists with examples can help in the identifcation of such threats. Use and abuse cases can illustrate how existing protective measures could be bypassed, or where a lack of such protection exists
 
+The determination of the security risk for each threat can be determined using a value-based risk model such as DREAD or a less subjective qualitative risk model based upon general risk factors (e.g. likelihood and impact)
+
+The frst step in the determination of threats is adopting a threat categorization. A threat categorization provides a set of threat categories with corresponding examples so that threats can be systematically identifed in the application in a structured and repeatable manner
+
+- Stride
+Threat lists based on the STRIDE model are useful in the identifcation of threats with regards to the attacker goals. For example, if the threat scenario is attacking the login, would the attacker brute force the password to break the authentication? If the threat scenario is to try to elevate privileges to gain another user’s privileges, would the attacker try to perform forceful browsing? A threat categorization such as STRIDE is useful in the identifcation of threats by classifying attacker goals such as shown in table 8
+
+<img width="913" alt="image" src="https://github.com/Dyang0/Helpful-Resources/assets/70818105/e0fdf1fb-1462-46bd-9a69-d4ebe0bd5bb1">
+
+It is vital that all possible attack vectors should be evaluated from the attacker’s point of view. For example, the login page allows sending authentication credentials, and the input data accepted by an entry point has to validate for potential malicious input to exploit vulnerabilities such as SQL injection, cross site scripting, and bufer overfows. Additionally, the data fow passing through that point has to be used to determine the threats to the entry points to the next components along the fow. If the following components can be regarded critical (e.g. the hold sensitive data), that entry point can be regarded more critical as well. In an end to end data fow the input data (i.e. username and password) from a login page, passed on without validation, could be exploited for a SQL injection attack to manipulate a query for breaking the authentication or to modify a table in the database
+
+<img width="931" alt="image" src="https://github.com/Dyang0/Helpful-Resources/assets/70818105/9d880171-3d2d-4253-927d-c565dda9e30a">
+
+<img width="785" alt="image" src="https://github.com/Dyang0/Helpful-Resources/assets/70818105/b18a9a83-90ad-426a-9fe4-f4051829ee3c">
 
 
 
@@ -221,5 +236,6 @@ The goal of the threat categorization is to help identify threats both from the 
 - White box testing
 - Capability Maturity Model (CMM)
 - MVC (Model-View-Controller)
+- use vs abuse cases
 
 
