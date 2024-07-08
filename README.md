@@ -225,9 +225,31 @@ It is vital that all possible attack vectors should be evaluated from the attack
 
 <img width="931" alt="image" src="https://github.com/Dyang0/Helpful-Resources/assets/70818105/9d880171-3d2d-4253-927d-c565dda9e30a">
 
+Microsoft DREAD threat-risk ranking model
+
+- In the Microsoft DREAD threat-risk ranking model, the technical risk factors for impact are Damage and Afected Users, while the ease of exploitation factors are Reproducibility, Exploitability and Discoverability. This risk factorization
+allows the assignment of values to the diferent infuencing factors of a threat. 
+
 <img width="785" alt="image" src="https://github.com/Dyang0/Helpful-Resources/assets/70818105/b18a9a83-90ad-426a-9fe4-f4051829ee3c">
 
+3. Determine countermeasures and mitigation
 
+SQL Injection
+
+The most common injection vulnerability is SQL injection. Injection vulnerability is also easy to remediate and protect against. This vulnerability covers SQL, LDAP, Xpath, OS commands, XML parsers
+
+- Using string concatenation to generate a SQL statement is very common in legacy applications where developers were not considering security. The issue is this coding technique does not tell the parser which part of the statement is code and which part is data. In situations where user input is concatenated into the SQL statement, an attacker can modify the SQL statement by adding SQL code to the input data.
+
+1. Blind SQL Injection
+2. Parameterized SQL Queries
+
+Parameterized SQL queries (sometimes called prepared statements) allow the SQL query string to be defned in such a way that the client input can’t be treated as part of the SQL syntax
+
+Safe String Concatenation?
+
+- So does this mean you can’t use string concatenation at all in your DB handling code? It is possible to use string concatenation safely, but it does increase the risk of an error, even without an attacker attempting to inject SQL syntax into your application.
+
+- You should never use string concatenation in combination with the client input value. Take an example where the existence (not the value) of a client input variable “surname” is used to construct the SQL query of the prepared statement;
 
 
 ### Key Terms
