@@ -1,4 +1,4 @@
-# Posting on Medium Until I Get A Security Job
+# Posting on Medium Until I Get A Job
 
 - [Posting on Medium Until I Get A Security Job (Update 1: Beginning)](https://medium.com/@dyang./posting-on-medium-until-i-get-a-security-job-update-1-beginning-294ba5411370)
 - Update 2 - IN PROGRESS
