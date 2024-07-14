@@ -3,7 +3,7 @@
 - [Posting on Medium Until I Get A Security Job (Update 1: Beginning)](https://medium.com/@dyang./posting-on-medium-until-i-get-a-security-job-update-1-beginning-294ba5411370)
 - Update 2 - IN PROGRESS
 
-*Notes below are used to help me organize my thoughts for this Medium series. Disregard them
+*The "General Notes" below are used to help me organize my thoughts for this Medium series. Disregard them
 
 ## General Notes
 
