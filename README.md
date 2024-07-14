@@ -1,4 +1,4 @@
-# Helpful-Resources
+# Posting on Medium Until I Get A Security Job [Medium Series]
 
 [So You Want To Be a Pentester?](https://jhalon.github.io/becoming-a-pentester/)
 
