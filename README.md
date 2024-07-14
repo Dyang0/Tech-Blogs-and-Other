@@ -5,7 +5,7 @@
 
 *Notes below are used to help me organize my thoughts for this Medium series. Disregard them
 
-# General Notes
+## General Notes
 
 [So You Want To Be a Pentester?](https://jhalon.github.io/becoming-a-pentester/)
 
