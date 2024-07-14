@@ -1,4 +1,4 @@
-# Posting on Medium Until I Get A Security Job [Medium Series]
+# Posting on Medium Until I Get A Security Job
 
 [So You Want To Be a Pentester?](https://jhalon.github.io/becoming-a-pentester/)
 
