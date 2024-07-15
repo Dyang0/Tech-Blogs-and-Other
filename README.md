@@ -1,8 +1,7 @@
 # Posting on Medium Until I Get A Job
 
 - [Posting on Medium Until I Get A Job (Update 1: Beginning)](https://medium.com/@dyang./posting-on-medium-until-i-get-a-security-job-update-1-beginning-294ba5411370)
-- Update 2 - IN PROGRESS
-
+- [Posting on Medium Until I Get A Job (Update 2: Networking & TCP/IP)](https://medium.com/@dyang./posting-on-medium-until-i-get-a-job-update-2-networking-tcp-ip-63aed0aef48b)
 *The "General Notes" below are used to help me organize my thoughts for this Medium series. Disregard them
 
 ## General Notes
