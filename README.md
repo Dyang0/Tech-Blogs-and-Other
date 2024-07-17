@@ -32,7 +32,9 @@ With that said, I hope you enjoy the blogs as much as I did writing them
 
 **Bonus Blogs**
 
-I sometimes dabble into more philosophy topics if you're interested. These are a few I enjoyed writing :)
+Sometimes I dabble into philosophy themes if you're interested. The writing is more subjective in nature. 
+
+These are a few I enjoyed writing :)
 
 - [We Are Learning Wrong and Why We Should Care](https://medium.com/@dyang./we-are-learning-wrong-and-why-we-should-care-cc3aaba351c5)
 - [Why Everything Needs to Be in Writing](https://medium.com/@dyang./why-everything-needs-to-be-in-writing-ad2b1ff3e4f4)
