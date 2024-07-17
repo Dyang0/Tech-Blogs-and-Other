@@ -4,7 +4,7 @@ My Medium blogs will be a way to communicate my findings and thoughts. This will
 
 I have decided to split my blogs in a series format with each having common themes. This will allow me to organize my thoughts more effectively, where I will be forced to formalize my findings.
 
-With that said, I hope you enjoy the blogs as much as I did writing them :)
+With that said, I hope you enjoy the blogs as much as I did writing them
   
 ## Posting on Medium Until I Get A Job
 
@@ -32,7 +32,7 @@ With that said, I hope you enjoy the blogs as much as I did writing them :)
 
 **Bonus Blogs**
 
-I sometimes dabble into more philosophy topics if you're interested
+I sometimes dabble into more philosophy topics if you're interested. These are a few I enjoyed writing :)
 
 - [We Are Learning Wrong and Why We Should Care](https://medium.com/@dyang./we-are-learning-wrong-and-why-we-should-care-cc3aaba351c5)
 - [Why Everything Needs to Be in Writing](https://medium.com/@dyang./why-everything-needs-to-be-in-writing-ad2b1ff3e4f4)
