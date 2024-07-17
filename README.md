@@ -1,3 +1,5 @@
+*The "General Notes" attached to the repo is used to help me retain information. Disregard it
+
 # Posting on Medium Until I Get A Job
 
 - [Posting on Medium Until I Get A Job (Update 1: Beginning)](https://medium.com/@dyang./posting-on-medium-until-i-get-a-security-job-update-1-beginning-294ba5411370)
@@ -11,4 +13,3 @@
 # Coding Projects
 - Post 1 [In Progess]
 
-*The "General Notes" attached to the repo is used to help me retain information
