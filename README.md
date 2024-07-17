@@ -30,10 +30,10 @@ With that said, I hope you enjoy the blogs as much as I did writing them :)
 - [The social engineering epidemic](https://short.sweet.pub/the-social-engineering-epidemic-babf5b127cb9)
 - [The Mind of an Unethical Hacker](https://short.sweet.pub/the-mind-of-an-unethical-hacker-1b0d489ee717)
 
-### Bonus Blogs
+## Bonus Blogs
 
-### More Philosophical Pieces
+I sometimes dabble into more philosophy topics if you're interested
+
 - [We Are Learning Wrong and Why We Should Care](https://medium.com/@dyang./we-are-learning-wrong-and-why-we-should-care-cc3aaba351c5)
 - [Why Everything Needs to Be in Writing](https://medium.com/@dyang./why-everything-needs-to-be-in-writing-ad2b1ff3e4f4)
 - [The Art of Humbling Oneself](https://long.sweet.pub/the-art-of-humbling-oneself-b395fcd2a035)
-* I enjoy dabbling into more philosophy topics if you're interested
