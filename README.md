@@ -22,7 +22,7 @@ With that said, I hope you enjoy the blogs as much as I did writing them :)
 *Each blog post will have a corresponding, linked repo
 
 ## Reducing Complexity in Tech
-- [Overcoming Bad Habits](https://medium.com/@dyang./reducing-complexity-in-tech-overcoming-bad-habits-1960f1802062)
+- [Discovering Simplicity](https://medium.com/@dyang./reducing-complexity-in-tech-overcoming-bad-habits-1960f1802062)
 - [Setting Up Virtual Environments](https://medium.com/@dyang./reducing-complexity-in-a-complex-world-virtual-environments-bc51d08f5e80)
 - Post 3 [In Progress]
 
