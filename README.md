@@ -2,7 +2,7 @@
 
 My Medium blogs will be a way to communicate my findings and thoughts. This will be a great way to retain information and document my projects. 
 
-I have decided to split my blogs in a series format with each having common themes (this explains the repo name "Medium-Series"). This will allow me to organize my thoughts more effectively, where I will be forced to formalize my findings.
+I have decided to split my blogs in a series format with each having common themes. This will allow me to organize my thoughts more effectively, where I will be forced to formalize my findings.
 
 With that said, I hope you enjoy the blogs as much as I did writing them :)
   
