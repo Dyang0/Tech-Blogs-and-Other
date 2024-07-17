@@ -1,3 +1,5 @@
+*The "General Notes" attached to the repo is used to help me retain information. Disregard it
+
 ## General Notes
 
 [So You Want To Be a Pentester?](https://jhalon.github.io/becoming-a-pentester/)
