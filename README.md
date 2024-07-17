@@ -8,7 +8,7 @@ I hope you enjoy the blogs as much as I did writing them :)
   
 ## Posting on Medium Until I Get A Job
 
-- Update 1: Beginning](https://medium.com/@dyang./posting-on-medium-until-i-get-a-security-job-update-1-beginning-294ba5411370)
+- [Update 1: Beginning](https://medium.com/@dyang./posting-on-medium-until-i-get-a-security-job-update-1-beginning-294ba5411370)
 - [Update 2: Networking & TCP/IP](https://medium.com/@dyang./posting-on-medium-until-i-get-a-job-update-2-networking-tcp-ip-63aed0aef48b)
 - [Update 3: The Realization](https://medium.com/@dyang./posting-on-medium-until-i-get-a-job-update-3-the-realization-b1e3884a8821)
 - Update 4 [IN PROGRESS]
