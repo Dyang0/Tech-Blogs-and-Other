@@ -20,7 +20,7 @@ I hope you enjoy the blogs as much as I did writing them :)
 - Post 1 [In Progess]
 
 ## Reducing Complexity in a Complex World
-- [Virtual Environments](https://medium.com/@dyang./reducing-complexity-in-a-complex-world-virtual-environments-bc51d08f5e80)
+- [Setting Up Virtual Environments](https://medium.com/@dyang./reducing-complexity-in-a-complex-world-virtual-environments-bc51d08f5e80)
 - Post 2 [In Progress]
 
 ### General Blog Posts
