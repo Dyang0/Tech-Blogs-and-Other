@@ -12,7 +12,7 @@
 - Post 1 [In Progess]
 
 # Reducing Complexity in a Complex World
-- Post 1 [In Progress]
+- [Virtual Environments]([https://medium.com/p/bc51d08f5e80/edit](https://medium.com/p/bc51d08f5e80/edit](https://medium.com/@dyang./reducing-complexity-in-a-complex-world-virtual-environments-bc51d08f5e80))
 
 # General Blog Posts
 - [The social engineering epidemic](https://short.sweet.pub/the-social-engineering-epidemic-babf5b127cb9)
