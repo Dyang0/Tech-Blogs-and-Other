@@ -22,8 +22,9 @@ With that said, I hope you enjoy the blogs as much as I did writing them :)
 *Each blog post will have a corresponding, linked repo
 
 ## Reducing Complexity in Tech
+- [Overcoming Bad Habits](https://medium.com/@dyang./reducing-complexity-in-tech-overcoming-bad-habits-1960f1802062)
 - [Setting Up Virtual Environments](https://medium.com/@dyang./reducing-complexity-in-a-complex-world-virtual-environments-bc51d08f5e80)
-- Post 2 [In Progress]
+- Post 3 [In Progress]
 
 ### General Blog Posts
 - [The social engineering epidemic](https://short.sweet.pub/the-social-engineering-epidemic-babf5b127cb9)
