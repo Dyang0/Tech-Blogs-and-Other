@@ -8,9 +8,9 @@ I hope you enjoy the blogs as much as I did writing them :)
   
 ## Posting on Medium Until I Get A Job
 
-- [Posting on Medium Until I Get A Job (Update 1: Beginning)](https://medium.com/@dyang./posting-on-medium-until-i-get-a-security-job-update-1-beginning-294ba5411370)
-- [Posting on Medium Until I Get A Job (Update 2: Networking & TCP/IP)](https://medium.com/@dyang./posting-on-medium-until-i-get-a-job-update-2-networking-tcp-ip-63aed0aef48b)
-- [Posting on Medium Until I Get A Job (Update 3: The Realization)](https://medium.com/@dyang./posting-on-medium-until-i-get-a-job-update-3-the-realization-b1e3884a8821)
+- Update 1: Beginning](https://medium.com/@dyang./posting-on-medium-until-i-get-a-security-job-update-1-beginning-294ba5411370)
+- [Update 2: Networking & TCP/IP](https://medium.com/@dyang./posting-on-medium-until-i-get-a-job-update-2-networking-tcp-ip-63aed0aef48b)
+- [Update 3: The Realization](https://medium.com/@dyang./posting-on-medium-until-i-get-a-job-update-3-the-realization-b1e3884a8821)
 - Update 4 [IN PROGRESS]
 
 ## Conquering CTFs
@@ -19,7 +19,7 @@ I hope you enjoy the blogs as much as I did writing them :)
 ## Documenting Coding Projects
 - Post 1 [In Progess]
 
-## Reducing Complexity in a Complex World
+## Reducing Complexity in Tech
 - [Setting Up Virtual Environments](https://medium.com/@dyang./reducing-complexity-in-a-complex-world-virtual-environments-bc51d08f5e80)
 - Post 2 [In Progress]
 
