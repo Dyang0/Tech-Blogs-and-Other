@@ -1,4 +1,4 @@
-# The "General Notes" attached to the repo is used to help me retain information. Disregard it
+**The "General Notes" attached to the repo is used to help me retain information. Disregard it**
 
 ## General Notes
 
