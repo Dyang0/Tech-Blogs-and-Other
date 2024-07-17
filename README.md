@@ -5,9 +5,16 @@
 - [Posting on Medium Until I Get A Job (Update 3: The Realization)](https://medium.com/@dyang./posting-on-medium-until-i-get-a-job-update-3-the-realization-b1e3884a8821)
 - Update 4 [IN PROGRESS]
 
-# What I Learned From CTFs
+# Conquering CTFs
 - Post 1 [In Progress]
 
-# Coding Projects
+# Documenting Coding Projects
 - Post 1 [In Progess]
 
+# Reducing Complexity in a Complex World
+- Post 1 [In Progress]
+
+# General Blog Posts
+- [The social engineering epidemic](https://short.sweet.pub/the-social-engineering-epidemic-babf5b127cb9)
+- [The Mind of an Unethical Hacker](https://short.sweet.pub/the-mind-of-an-unethical-hacker-1b0d489ee717)
+- [We Are Learning Wrong and Why We Should Care](https://medium.com/@dyang./we-are-learning-wrong-and-why-we-should-care-cc3aaba351c5)
