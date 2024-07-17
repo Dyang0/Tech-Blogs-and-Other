@@ -7,11 +7,11 @@
 
 *The "General Notes" below are used to help me organize my thoughts for this Medium series. Disregard them
 
-## General Notes
+### General Notes
 
 [So You Want To Be a Pentester?](https://jhalon.github.io/becoming-a-pentester/)
 
-## Code Review
+### Code Review
 
  Why Code Review?
  -  Tools can be used to perform this task but they always need human verifcation. They do not understand context, which is the keystone of security code review. Tools are good at assessing large amounts of code and pointing out possible issues, but a person needs to verify every result to determine if it is a real issue, if it is actually exploitable, and calculate the risk to the enterprise. Human reviewers are also necessary to fll in for the signifcant blind spots, which automated tools, simply cannot check
