@@ -8,4 +8,7 @@
 # What I Learned From CTFs
 - Post 1 [In Progress]
 
+# Coding Projects
+- Post 1 [In Progess]
+
 *The "General Notes" attached to the repo is used to help me retain information
