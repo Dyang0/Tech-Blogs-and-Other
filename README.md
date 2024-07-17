@@ -30,6 +30,9 @@ With that said, I hope you enjoy the blogs as much as I did writing them :)
 - [The social engineering epidemic](https://short.sweet.pub/the-social-engineering-epidemic-babf5b127cb9)
 - [The Mind of an Unethical Hacker](https://short.sweet.pub/the-mind-of-an-unethical-hacker-1b0d489ee717)
 
+-
+-
+
 **Bonus Blogs**
 
 I sometimes dabble into more philosophy topics if you're interested
