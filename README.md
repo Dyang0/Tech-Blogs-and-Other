@@ -26,11 +26,14 @@ With that said, I hope you enjoy the blogs as much as I did writing them :)
 - [Setting Up Virtual Environments](https://medium.com/@dyang./reducing-complexity-in-a-complex-world-virtual-environments-bc51d08f5e80)
 - Post 3 [In Progress]
 
-### General Blog Posts
+## General Blog Posts
 - [The social engineering epidemic](https://short.sweet.pub/the-social-engineering-epidemic-babf5b127cb9)
 - [The Mind of an Unethical Hacker](https://short.sweet.pub/the-mind-of-an-unethical-hacker-1b0d489ee717)
 
-### Posts I Want to Live By
+### Bonus Blogs
+
+### More Philosophical Pieces
 - [We Are Learning Wrong and Why We Should Care](https://medium.com/@dyang./we-are-learning-wrong-and-why-we-should-care-cc3aaba351c5)
 - [Why Everything Needs to Be in Writing](https://medium.com/@dyang./why-everything-needs-to-be-in-writing-ad2b1ff3e4f4)
 - [The Art of Humbling Oneself](https://long.sweet.pub/the-art-of-humbling-oneself-b395fcd2a035)
+* I enjoy dabbling into more philosophy topics if you're interested
