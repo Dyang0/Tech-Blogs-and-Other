@@ -22,7 +22,7 @@ PicoCTF
 20 challenges each (1 category per week):
 
 **General Skills (Week 1)**
-- [picoCTF: Heap 0 & 1](https://medium.com/@dyang./conquering-ctfs-picoctf-heap-0-18bdf49e914f)
+- [PicoCTF: Heap 0 & 1](https://medium.com/@dyang./conquering-ctfs-picoctf-heap-0-18bdf49e914f)
 - Post 2 [IN PROGRESS]
 
 **Web Exploitation (Week 2)**
