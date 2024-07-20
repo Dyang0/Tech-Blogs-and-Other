@@ -35,7 +35,7 @@ PicoCTF
 [Vulnhub-Mr.Robot](https://www.vulnhub.com/entry/mr-robot-1,151/) (Possible Project)
 
 ## Documenting Coding Projects
-- [HTTPs Server](https://github.com/Dyang0/Secure-HTTP-Server)
+- [HTTPS Server](https://github.com/Dyang0/Secure-HTTP-Server)
 - [What I Learned From HackTheBox] (IN PROGRESS)
 - [Post 3] (IN PROGRESS)
 
