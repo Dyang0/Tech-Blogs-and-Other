@@ -19,7 +19,8 @@ With that said, I hope you enjoy the blogs as much as I did writing them
 - Post 1 [In Progress]
 
 ## Documenting Coding Projects
-- Post 1 [In Progess]
+- [picoCTF: Heap 0 & 1](https://medium.com/@dyang./conquering-ctfs-picoctf-heap-0-18bdf49e914f)
+- Post 2 [In Progess]
 
 *Each blog post will have a corresponding, linked repo
 
