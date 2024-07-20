@@ -20,6 +20,7 @@ With that said, I hope you enjoy the blogs as much as I did writing them
 - Post 2 [In Progess]
 
 ## Documenting Coding Projects
+- Post 1 [In Progess]
 
 *Each blog post will have a corresponding, linked repo
 
