@@ -34,6 +34,9 @@ PicoCTF
 ## Documenting Coding Projects
 - Post 1 [IN PROGRESS]
 
+[Vulnhub-Mr.Robot](https://www.vulnhub.com/entry/mr-robot-1,151/)
+- Maybe will do in the future
+
 *Each blog post will have a corresponding, linked repo
 
 ## Reducing Complexity in Tech
