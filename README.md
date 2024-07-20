@@ -21,9 +21,15 @@ PicoCTF
 
 20 challenges each (1 category per week):
 
-General Skills (Week 1), Web Exploitation (Week 2), Forensics (Week 3)
+General Skills (Week 1)
 - [picoCTF: Heap 0 & 1](https://medium.com/@dyang./conquering-ctfs-picoctf-heap-0-18bdf49e914f)
 - Post 2 [IN PROGRESS]
+
+Web Exploitation (Week 2)
+- Post 1 [IN PROGRESS]
+
+Forensics (Week 3)
+- Post 1 [IN PROGRESS]
 
 ## Documenting Coding Projects
 - Post 1 [IN PROGRESS]
