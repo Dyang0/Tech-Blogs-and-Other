@@ -24,7 +24,7 @@ PicoCTF
 
 **General Skills (Week 1)**
 - [PicoCTF: Heap 0 & 1](https://medium.com/@dyang./conquering-ctfs-picoctf-heap-0-18bdf49e914f)
-- [PicoCTF: General Skills]() (IN PROGRESS)
+- [PicoCTF: General Skills](https://medium.com/@dyang./conquering-ctfs-picoctf-general-skills-b7624abb0f7a) (IN PROGRESS)
 
 **Web Exploitation (Week 2)**
 - [Post 1] (IN PROGRESS)
