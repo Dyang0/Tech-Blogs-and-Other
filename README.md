@@ -18,7 +18,7 @@ With that said, I hope you enjoy the blogs as much as I did writing them
 
 ## Conquering CTFs
 
-#### PicoCTF
+### PicoCTF
 
 20 challenges each (1 category per week):
 
