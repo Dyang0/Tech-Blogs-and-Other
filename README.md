@@ -44,7 +44,7 @@ With that said, I hope you enjoy the blogs as much as I did writing them
 ## Reducing Complexity in Tech
 - [Overview](https://medium.com/@dyang./reducing-complexity-in-tech-overcoming-bad-habits-1960f1802062)
 - [Setting Up Virtual Environments](https://medium.com/@dyang./reducing-complexity-in-a-complex-world-virtual-environments-bc51d08f5e80)
-- [Makefiles 101]()
+- [Makefiles 101](https://medium.com/@dyang./reducing-complexity-in-tech-makefiles-101-01785e945246)
 - [Post 4] (IN PROGRESS)
 
 ## General Blog Posts
