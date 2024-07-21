@@ -44,7 +44,8 @@ PicoCTF
 ## Reducing Complexity in Tech
 - [Overview](https://medium.com/@dyang./reducing-complexity-in-tech-overcoming-bad-habits-1960f1802062)
 - [Setting Up Virtual Environments](https://medium.com/@dyang./reducing-complexity-in-a-complex-world-virtual-environments-bc51d08f5e80)
-- [Post 3] (IN PROGRESS)
+- [Understanding Makefiles]()
+- [Post 4] (IN PROGRESS)
 
 ## General Blog Posts
 - [The social engineering epidemic](https://short.sweet.pub/the-social-engineering-epidemic-babf5b127cb9)
