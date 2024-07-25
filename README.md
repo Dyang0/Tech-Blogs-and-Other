@@ -47,6 +47,3 @@ With that said, I hope you enjoy the blogs as much as I did writing them
 - [Makefiles 101](https://medium.com/@dyang./reducing-complexity-in-tech-makefiles-101-01785e945246)
 - [Post 4] (IN PROGRESS)
 
-## General Blog Posts
-- [The social engineering epidemic](https://short.sweet.pub/the-social-engineering-epidemic-babf5b127cb9)
-- [The Mind of an Unethical Hacker](https://short.sweet.pub/the-mind-of-an-unethical-hacker-1b0d489ee717)
