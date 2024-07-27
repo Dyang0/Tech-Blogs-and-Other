@@ -27,7 +27,7 @@ With that said, I hope you enjoy the blogs as much as I did writing them
 - [PicoCTF: General Skills](https://medium.com/@dyang./conquering-ctfs-picoctf-general-skills-b7624abb0f7a) (IN PROGRESS)
 
 **Web Exploitation (Week 2)**
-- [Post 1] (IN PROGRESS)
+- [PicoCTF: Web Exploitation](https://medium.com/@dyang./conquering-ctfs-picoctf-web-exploitation-e897e6f25fce)
 
 **Forensics (Week 3)**
 - [Post 1] (IN PROGRESS)
