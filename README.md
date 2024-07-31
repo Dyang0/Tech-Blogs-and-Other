@@ -8,14 +8,6 @@ In the past, I created too many repos for my projects.
 
 With that said, I hope you enjoy the blogs as much as I did writing them
   
-## Posting on Medium Until I Get A Job
-
-- [Update 1: Beginning](https://medium.com/@dyang./posting-on-medium-until-i-get-a-security-job-update-1-beginning-294ba5411370)
-- [Update 2: Networking & TCP/IP](https://medium.com/@dyang./posting-on-medium-until-i-get-a-job-update-2-networking-tcp-ip-63aed0aef48b)
-- [Update 3: The Realization](https://medium.com/@dyang./posting-on-medium-until-i-get-a-job-update-3-the-realization-b1e3884a8821)
-- [Update 4: Making Goals](https://medium.com/@dyang./posting-on-medium-until-i-get-a-job-making-goals-815dbb7b5475)
-- [Update 5:] (IN PROGRESS)
-
 ## Conquering CTFs
 
 ### PicoCTF
@@ -34,12 +26,23 @@ With that said, I hope you enjoy the blogs as much as I did writing them
 
 [Vulnhub-Mr.Robot](https://www.vulnhub.com/entry/mr-robot-1,151/) (Possible Project)
 
+## Cracking OWASP Top Ten
+- [Injection] (IN PROGRESS)
+
 ## Documenting Coding Projects
 - [HTTPS Server](https://github.com/Dyang0/Secure-HTTP-Server)
 - [What I Learned From HackTheBox] (IN PROGRESS)
 - [Post 3] (IN PROGRESS)
 
 *Each blog post will have a corresponding, linked repo
+
+## Posting on Medium Until I Get A Job
+
+- [Update 1: Beginning](https://medium.com/@dyang./posting-on-medium-until-i-get-a-security-job-update-1-beginning-294ba5411370)
+- [Update 2: Networking & TCP/IP](https://medium.com/@dyang./posting-on-medium-until-i-get-a-job-update-2-networking-tcp-ip-63aed0aef48b)
+- [Update 3: The Realization](https://medium.com/@dyang./posting-on-medium-until-i-get-a-job-update-3-the-realization-b1e3884a8821)
+- [Update 4: Making Goals](https://medium.com/@dyang./posting-on-medium-until-i-get-a-job-making-goals-815dbb7b5475)
+- [Update 5:] (IN PROGRESS)
 
 ## Reducing Complexity in Tech
 - [Overview](https://medium.com/@dyang./reducing-complexity-in-tech-overcoming-bad-habits-1960f1802062)
