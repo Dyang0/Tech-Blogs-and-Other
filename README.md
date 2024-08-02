@@ -42,7 +42,7 @@ With that said, I hope you enjoy the blogs as much as I did writing them
 - [Update 2: Networking & TCP/IP](https://medium.com/@dyang./posting-on-medium-until-i-get-a-job-update-2-networking-tcp-ip-63aed0aef48b)
 - [Update 3: The Realization](https://medium.com/@dyang./posting-on-medium-until-i-get-a-job-update-3-the-realization-b1e3884a8821)
 - [Update 4: Making Goals](https://medium.com/@dyang./posting-on-medium-until-i-get-a-job-making-goals-815dbb7b5475)
-- [Update 5:] (IN PROGRESS)
+- [Update 5: Setting Myself for Success](https://medium.com/@dyang./posting-on-medium-until-i-get-a-job-update-5-a-routine-for-success-5fc034959c07)
 
 ## Reducing Complexity in Tech
 - [Overview](https://medium.com/@dyang./reducing-complexity-in-tech-overcoming-bad-habits-1960f1802062)
