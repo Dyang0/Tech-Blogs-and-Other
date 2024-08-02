@@ -36,6 +36,7 @@ With that said, I hope you enjoy the blogs as much as I did writing them
 - [Update 3: The Realization](https://medium.com/@dyang./posting-on-medium-until-i-get-a-job-update-3-the-realization-b1e3884a8821)
 - [Update 4: Making Goals](https://medium.com/@dyang./posting-on-medium-until-i-get-a-job-making-goals-815dbb7b5475)
 - [Update 5: Setting Myself for Success](https://medium.com/@dyang./posting-on-medium-until-i-get-a-job-update-5-a-routine-for-success-5fc034959c07)
+- [Update 6] (IN PROGRESS)
 
 ## Documenting Coding Projects
 - [HTTPS Server](https://github.com/Dyang0/Secure-HTTP-Server)
