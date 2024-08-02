@@ -29,13 +29,6 @@ With that said, I hope you enjoy the blogs as much as I did writing them
 ## Cracking OWASP Top Ten
 - [Injection] (IN PROGRESS)
 
-## Documenting Coding Projects
-- [HTTPS Server](https://github.com/Dyang0/Secure-HTTP-Server)
-- [What I Learned From HackTheBox] (IN PROGRESS)
-- [Post 3] (IN PROGRESS)
-
-*Each blog post will have a corresponding, linked repo
-
 ## Posting on Medium Until I Get A Job
 
 - [Update 1: Beginning](https://medium.com/@dyang./posting-on-medium-until-i-get-a-security-job-update-1-beginning-294ba5411370)
@@ -43,6 +36,13 @@ With that said, I hope you enjoy the blogs as much as I did writing them
 - [Update 3: The Realization](https://medium.com/@dyang./posting-on-medium-until-i-get-a-job-update-3-the-realization-b1e3884a8821)
 - [Update 4: Making Goals](https://medium.com/@dyang./posting-on-medium-until-i-get-a-job-making-goals-815dbb7b5475)
 - [Update 5: Setting Myself for Success](https://medium.com/@dyang./posting-on-medium-until-i-get-a-job-update-5-a-routine-for-success-5fc034959c07)
+
+## Documenting Coding Projects
+- [HTTPS Server](https://github.com/Dyang0/Secure-HTTP-Server)
+- [What I Learned From HackTheBox] (IN PROGRESS)
+- [Post 3] (IN PROGRESS)
+
+*Each blog post will have a corresponding, linked repo
 
 ## Reducing Complexity in Tech
 - [Overview](https://medium.com/@dyang./reducing-complexity-in-tech-overcoming-bad-habits-1960f1802062)
