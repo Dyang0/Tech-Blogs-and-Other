@@ -12,22 +12,12 @@ With that said, I hope you enjoy the blogs as much as I did writing them
 
 ### PicoCTF
 
-20 challenges each (1 category per week):
-
-**General Skills (Week 1)**
+**General Skills
 - [PicoCTF: Heap 0 & 1](https://medium.com/@dyang./conquering-ctfs-picoctf-heap-0-18bdf49e914f)
-- [PicoCTF: General Skills](https://medium.com/@dyang./conquering-ctfs-picoctf-general-skills-b7624abb0f7a) (IN PROGRESS)
+- [PicoCTF: General Skills](https://medium.com/@dyang./conquering-ctfs-picoctf-general-skills-b7624abb0f7a)
 
-**Web Exploitation (Week 2)**
-- [PicoCTF: Web Exploitation](https://medium.com/@dyang./conquering-ctfs-picoctf-web-exploitation-e897e6f25fce) (IN PROGRESS)
-
-**Forensics (Week 3)**
-- [Post 1] (IN PROGRESS)
-
-[Vulnhub-Mr.Robot](https://www.vulnhub.com/entry/mr-robot-1,151/) (Possible Project)
-
-## Cracking OWASP Top Ten
-- [Injection] (IN PROGRESS)
+**Web Exploitation
+- [PicoCTF: Web Exploitation](https://medium.com/@dyang./conquering-ctfs-picoctf-web-exploitation-e897e6f25fce)
 
 ## Posting on Medium Until I Get A Job
 
