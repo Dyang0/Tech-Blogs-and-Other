@@ -8,13 +8,13 @@ In the past, I created too many repos for my projects.
 
 With that said, I hope you enjoy the blogs as much as I did writing them
 
-#Other
+# Other
 
 This is a new section I added to highlight my other endeavors. This includes HackTheBox training, a malware analysis paper, and burp suite lab writeups. More information (such as detailed pdfs) can be seen under projects on my LinkedIn [projects](https://www.linkedin.com/in/daniel-yang07/details/projects/?profileId=ACoAADYmwSoBdrHrZK7rptagGMZ1uMyTnNh2qYI).
 
 ![image](https://github.com/user-attachments/assets/b0eb6a84-7293-4695-9ce6-cdb435d3a77d)
 
-
+# Technical Blogs
   
 ## Conquering CTFs
 
