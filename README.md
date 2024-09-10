@@ -7,6 +7,12 @@ I have decided to split my blogs in a series format with each having common them
 In the past, I created too many repos for my projects.
 
 With that said, I hope you enjoy the blogs as much as I did writing them
+
+#Other
+
+This is a new section I added to highlight my other endeavors. This includes HackTheBox training, a malware analysis paper, and burp suite lab writeups
+
+
   
 ## Conquering CTFs
 
