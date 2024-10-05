@@ -14,6 +14,9 @@ This is a new section I added to highlight my other endeavors. This includes Hac
 
 ![image](https://github.com/user-attachments/assets/b0eb6a84-7293-4695-9ce6-cdb435d3a77d)
 
+## Documenting Coding Projects
+- [HTTPS Server](https://github.com/Dyang0/Secure-HTTP-Server)
+
 # Technical Blogs
   
 ## Conquering CTFs
@@ -27,21 +30,6 @@ This is a new section I added to highlight my other endeavors. This includes Hac
 **Web Exploitation
 - [PicoCTF: Web Exploitation](https://medium.com/@dyang./conquering-ctfs-picoctf-web-exploitation-e897e6f25fce)
 
-## Posting on Medium Until I Get A Job
-
-- [Update 1: Beginning](https://medium.com/@dyang./posting-on-medium-until-i-get-a-security-job-update-1-beginning-294ba5411370)
-- [Update 2: Networking & TCP/IP](https://medium.com/@dyang./posting-on-medium-until-i-get-a-job-update-2-networking-tcp-ip-63aed0aef48b)
-- [Update 3: The Realization](https://medium.com/@dyang./posting-on-medium-until-i-get-a-job-update-3-the-realization-b1e3884a8821)
-- [Update 4: Making Goals](https://medium.com/@dyang./posting-on-medium-until-i-get-a-job-making-goals-815dbb7b5475)
-- [Update 5: Setting Myself for Success](https://medium.com/@dyang./posting-on-medium-until-i-get-a-job-update-5-a-routine-for-success-5fc034959c07)
-- [Update 6] (IN PROGRESS)
-
-## Documenting Coding Projects
-- [HTTPS Server](https://github.com/Dyang0/Secure-HTTP-Server)
-- [What I Learned From HackTheBox] (IN PROGRESS)
-- [Post 3] (IN PROGRESS)
-
-*Each blog post will have a corresponding, linked repo
 
 ## Reducing Complexity in Tech
 - [Overview](https://medium.com/@dyang./reducing-complexity-in-tech-overcoming-bad-habits-1960f1802062)
