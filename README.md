@@ -18,7 +18,10 @@ This is a new section I added to highlight my other endeavors. This includes Hac
 - [HTTPS Server](https://github.com/Dyang0/Secure-HTTP-Server)
 
 # Technical Blogs
-  
+
+## General
+- [Indirectly Causing a Buffer Overflow](https://medium.com/@dyang./indirectly-causing-a-buffer-overflow-cc643d443be0)
+
 ## Conquering CTFs
 
 ### PicoCTF
